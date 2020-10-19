@@ -2,7 +2,7 @@
 <html lang="en">
   <div style="background-image: url('background_image.jpg');">
   <head>
-    testhead
+    Hi! My name is Gabi! I am an embedded software engineer!
   <head/>
    
 </html>
